@@ -1,0 +1,1 @@
+Aya is a lightweight web server built on principles of clean OO and architectural design, ideal for customization and embedding into any environment.
